@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Languages :</h2>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=reactjs&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=c&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
