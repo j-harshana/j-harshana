@@ -11,7 +11,7 @@
     🌱 I’m currently learning <b>java, c, react</b>
   </li>
   <li>
-    📫 How to reach me *muthukuda.janith@gmail.com*
+    📫 How to reach me: <a href="mailto:muthukuda.janith@gmail.com">muthukuda.janith@gmail.com</a>
   </li>
   <li>
     👯 I’m looking to collaborate on Projects
