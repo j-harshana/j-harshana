@@ -8,10 +8,10 @@
 <h2>About Me :</h2>
 <ul>
   <li>
-    <p>- 🌱 I’m currently learning **java, c, react**</p>
+    <p>- 🌱 I’m currently learning **java, c, react** </p>
   </li>
   <li>
-    <p>- 📫 How to reach me **muthukuda.janith@gmail.com**</p>
+    <p>- 📫 How to reach me **muthukuda.janith@gmail.com** </p>
   </li>
   <li>
     <p>- 👯 I’m looking to collaborate on Projects</p>
