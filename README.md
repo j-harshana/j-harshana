@@ -4,4 +4,10 @@
 <h3 align="center">Undergraduate at Faculty of Computing and Technology, University of Kelaniya</h3>
 
 ![](https://komarev.com/ghpvc/?username=j-harshana&color=blueviolet&style=for-the-badge)
+
+- 🌱 I’m currently learning *java, c, react*
+
+- 📫 How to reach me *muthukuda.janith@gmail.com*
+
+
 </body>
