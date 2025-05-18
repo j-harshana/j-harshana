@@ -5,9 +5,30 @@
 
 ![](https://komarev.com/ghpvc/?username=j-harshana&color=blueviolet&style=for-the-badge)
 
-- 🌱 I’m currently learning **java, c, react**
+<h2>About Me :</h2>
+<ul>
+  <li>
+    <p>- 🌱 I’m currently learning **java, c, react**</p>
+  </li>
+  <li>
+    <p>- 📫 How to reach me **muthukuda.janith@gmail.com**</p>
+  </li>
+  <li>
+    <p>- 👯 I’m looking to collaborate on Projects</p>
+  </li>
+</ul>
 
-- 📫 How to reach me **muthukuda.janith@gmail.com**
+<h2>Languages :</h2>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=reactjs&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
+
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=c&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
+
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
+
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
