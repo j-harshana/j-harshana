@@ -69,8 +69,8 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
   </a>
   <a href="mailto:muthukuda.janith@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_(2020).svg" width="30px" alt="Gmail"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>>
 </p>
 
 ---
