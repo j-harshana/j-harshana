@@ -62,9 +62,9 @@
   <a href="https://github.com/j-harshana" target="_blank">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32px" alt="GitHub"/>
   </a>
-  <a href="mailto:muthukuda.janith@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="mailto:muthukuda.janith@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_(2020).svg" width="30px" alt="Gmail" />
+</a>
 </p>
 
 ---
