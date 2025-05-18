@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/j-harshana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/j-harshana1" target="_blank">
+  <a href="https://twitter.com/j_harshana1" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
   </a>
   <a href="mailto:muthukuda.janith@gmail.com" target="_blank">
