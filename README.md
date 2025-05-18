@@ -5,9 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=j-harshana&color=blueviolet&style=for-the-badge)
 
-- 🌱 I’m currently learning *java, c, react*
+- 🌱 I’m currently learning **java, c, react**
 
-- 📫 How to reach me *muthukuda.janith@gmail.com*
+- 📫 How to reach me **muthukuda.janith@gmail.com**
 
 
 </body>
