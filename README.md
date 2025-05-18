@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Janith Harshana</h1>
+<head></head>
+
+<body><h1 align="center">Hi 👋, I'm Janith Harshana</h1>
 <h3 align="center">Undergraduate at Faculty of Computing and Technology, University of Kelaniya</h3>
 
 ![](https://komarev.com/ghpvc/?username=j-harshana&color=blueviolet&style=for-the-badge)
+</body>
