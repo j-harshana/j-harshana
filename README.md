@@ -11,17 +11,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on personal and academic **projects**.
-- 🌱 I’m currently learning **Java**, **C**, and **React**.
-- 👯 I’m looking to collaborate on **Open Source Projects** and group assignments.
-- 💬 Ask me about **Java basics**, **React UI**, or **Linux**.
-- 📫 Reach me at: [muthukuda.janith@gmail.com](mailto:muthukuda.janith@gmail.com)
-- ⚡ Fun fact: I love learning about new technologies and playing with UI designs!
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
