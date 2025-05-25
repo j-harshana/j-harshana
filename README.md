@@ -25,13 +25,13 @@
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=j-harshana&show_icons=true&theme=radical" alt="GitHub stats" width="400" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=j-harshana&theme=radical" alt="GitHub streak" width="400" height="150"/>
 </p>
-
+-->
 ---
 
 ### 🔗 Connect with Me
