@@ -1,6 +1,6 @@
 <!-- Google Verification -->
 <meta name="google-site-verification" content="zgf0r-fbiRi3-_Kv_6ihgrAkc8B1_EB-ZIk-Kx1j-5g" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Janith Harshana</h1>
 
 <h3 align="center">🎓 Undergraduate at Faculty of Computing and Technology, University of Kelaniya</h3>
@@ -36,21 +36,22 @@
 
 ### 🔗 Connect with Me
 
-<div class="socials">
-  <a href="https://www.facebook.com/janith.harshana123" class="social facebook" target="_blank">
-    <i class="fab fa-facebook-f"></i>
+<p align="left">
+  <a href="https://www.facebook.com/janith.harshana123" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://github.com/j-harshana" class="social github" target="_blank">
-    <i class="fab fa-github"></i>
+  <a href="https://github.com/j-harshana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/j-harshana" class="social linkedin" target="_blank">
-    <i class="fab fa-linkedin-in"></i>
+  <a href="https://www.linkedin.com/in/j-harshana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/j_harshana1" class="social twitter" target="_blank">
-    <i class="fab fa-x-twitter"></i>
+  <a href="https://twitter.com/j_harshana1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
   </a>
-  <a href="mailto:muthukuda.janith@gmail.com" class="social gmail" target="_blank">
-    <i class="fas fa-envelope"></i>
+  <a href="mailto:muthukuda.janith@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
+</p>
+
 ---
