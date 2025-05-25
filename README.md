@@ -32,7 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=j-harshana&theme=radical" alt="GitHub streak" width="400" height="150"/>
 </p>
 -->
----
 
 ### 🔗 Connect with Me
 
