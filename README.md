@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Janith Harshana</h1>
 
-<h3 align="center">🎓 Undergraduate at Faculty of Computing and Technology, University of Kelaniya</h3>
+<h3 align="center">🎓 Undergraduate at Faculty of Computing and Technology, University of Kelaniya, Sri Lanka🇱🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=j-harshana&color=blueviolet&style=for-the-badge" alt="Profile views"/>
