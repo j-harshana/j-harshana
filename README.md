@@ -25,12 +25,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-harshana&show_icons=true&theme=radical" alt="GitHub stats" width="400" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j-harshana&theme=radical" alt="GitHub streak" width="400" height="150"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=j-harshana&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=j-harshana&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=j-harshana&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
