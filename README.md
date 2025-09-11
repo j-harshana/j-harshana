@@ -26,8 +26,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=j-harshana&theme=dark&hide_border=true&include_all_commits=true&count_private=true&width=400)
-![](https://nirzak-streak-stats.vercel.app/?user=j-harshana&theme=dark&hide_border=true&width=400)
+![](https://github-readme-stats.vercel.app/api?username=j-harshana&theme=dark&hide_border=true&include_all_commits=true&count_private=true&width=200)
+![](https://nirzak-streak-stats.vercel.app/?user=j-harshana&theme=dark&hide_border=true&width=200)
 
 ---
 
