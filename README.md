@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats:
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-harshana&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="440" />
+  <img src="(https://github-readme-stats.vercel.app/api?username=j-harshana&theme=outrun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&count_private=true" width="440" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=j-harshana&theme=dark&hide_border=true&card_width=400" width="400" />
 </p>
 
